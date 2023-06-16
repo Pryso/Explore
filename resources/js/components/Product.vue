@@ -16,7 +16,7 @@
             <div class="product-info ">
                 <div class="product-desc">
                     <div class="desc">
-                        ZIVCAS +11 | A-545 +12 | Контейнер улей | Почта в комплекте | Да я кабан бляя | Со мной моя банда отбитые панки | ХЕЙ БРО ЗАЦЕНИ ВАЙБ
+                        ZIVCAS +11 | A-545 +12 | Контейнер улей | Почта в комплекте | Бла бла | Бла бла | Бла бла
                     </div>
                     <div class="images">
                         <div class="qwe-7">
@@ -65,7 +65,7 @@
                                         <span>Hotring</span>
                                         <span style="font-family: Montserrat-Medium; color: #A3A3A3;">19.05.2023</span>
                                     </div>
-                                    <span style="font-family: Montserrat-Medium;">Аккаунт топ братанчик</span>
+                                    <span style="font-family: Montserrat-Medium;">Norm</span>
                                 </div>
                             </div>
                             <div class="review">
@@ -75,7 +75,7 @@
                                         <span>Hotring</span>
                                         <span style="font-family: Montserrat-Medium; color: #A3A3A3;">19.05.2023</span>
                                     </div>
-                                    <span style="font-family: Montserrat-Medium;">Аккаунт топ братанчик</span>
+                                    <span style="font-family: Montserrat-Medium;">Bad</span>
                                 </div>
                             </div>
                         </div>
